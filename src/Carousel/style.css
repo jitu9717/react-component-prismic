@@ -1,0 +1,10 @@
+
+.backgroundBlue {
+    background-color: #005f5f;
+}
+.slick-prev {
+    left: 25px !important;
+}
+.slick-next {
+    right: 25px !important;
+}
